@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\bin\Debug\Informacny_system.exe.config
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\bin\Debug\Informacny_system.exe
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\bin\Debug\Informacny_system.pdb
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\obj\Debug\Informacny_system.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\obj\Debug\Informacny_system.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\obj\Debug\Informacny_system.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\obj\Debug\Informacny_system.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\obj\Debug\Informacny_system.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\obj\Debug\Informacny_system.exe
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\obj\Debug\Informacny_system.pdb
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\obj\Debug\Informacny_system.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Zadanie2_DSR\visual_st\Informacny_system\Informacny_system\obj\Debug\Informacny_system.informacny_system.resources
