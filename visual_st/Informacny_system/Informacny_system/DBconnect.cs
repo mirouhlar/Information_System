@@ -10,7 +10,7 @@ namespace Informacny_system
 
     class DBconnect
     {
-       private OracleConnection connection = new OracleConnection("Data Source = (DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 147.232.25.197)(PORT = 1523))(CONNECT_DATA = (SID = mis3))); User Id = jozef_kondas; Password=jozef_kondas");
+       private OracleConnection connection = new OracleConnection("Data Source = (DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = *)(PORT = 1523))(CONNECT_DATA = (SID = mis3))); User Id = *; Password=*");
 
         public OracleConnection getConnection()
         {
